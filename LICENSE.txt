@@ -1,0 +1,4 @@
+This software is released under a GPLv3 license.
+Please see 3rdParty for a list of all included code and library dependencies which are not property of the authors of this software.
+
+For a closed-source version of this software for commercial purposes, please contact the authors.
